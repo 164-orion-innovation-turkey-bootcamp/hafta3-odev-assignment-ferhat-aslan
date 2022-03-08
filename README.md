@@ -1,4 +1,4 @@
-# Kullanicislemleri
+# Kullanici Islemleri
 
 ## Used Packages and Modules
 - Json-Server
